@@ -5,4 +5,3 @@ data class Data(
     val categories: List<Category>
 )
 
-/*sumit*/

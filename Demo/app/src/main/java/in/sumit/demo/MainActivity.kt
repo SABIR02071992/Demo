@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         var bottomNavigationView=findViewById<BottomNavigationView>(R.id.bottomNavigationView)
         bottomNavigationView.background = null
         bottomNavigationView.selectedItemId=R.id.home
-
+/*sumit*/
 
         bottomNavigationView.setOnNavigationItemReselectedListener {
             when (it.itemId) {
