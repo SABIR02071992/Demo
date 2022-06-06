@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mybook"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="MyBooking" />
+    <item
+        android:id="@+id/scanQR"
+        android:icon="@drawable/qr"
+        android:title="Scan QR" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/myQr"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="My QR" />
+    <item
+        android:id="@+id/myProfile"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="My Profile" />
+</menu>
